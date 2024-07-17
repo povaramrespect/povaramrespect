@@ -21,9 +21,6 @@
 - ORM: SQLAlchemy, Pydantic
 - Боты: aiogram, telebot
 - Парсинг: Selenium, BS4, requests
-- 
-## Проекты: 
-Проекты в профиле
 
 ## Образование: 
 
@@ -32,4 +29,4 @@
 
 ## Контакты: 
 - Email: zmeyka070@gmail.com
-  
+Буду рад обратной связи :)
